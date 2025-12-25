@@ -30,7 +30,7 @@ The dashboard helps stakeholders quickly understand revenue trends, profitabilit
 - City Selection
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshot (225).png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
